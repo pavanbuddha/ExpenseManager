@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="TextView">Settings</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="save">Save</string>
+    <string name="large_text">large Text</string>
+    <string name="medium">medium</string>
+    <string name="small">small</string>
+    <string name="todo">TODO</string>
+    <string name="add_activity_title">Add Expense</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_graph">Graph</string>
+
+</resources>
